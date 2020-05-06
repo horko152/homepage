@@ -1,0 +1,21 @@
+.contacts{
+    display: flex;
+    flex-direction: column;
+}
+.center{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: 'Press Start 2P',sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.credo{
+    display: flex;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+}
+.date{
+    margin-bottom: 10px;
+}
