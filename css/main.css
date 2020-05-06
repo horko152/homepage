@@ -19,3 +19,8 @@
 .date{
     margin-bottom: 10px;
 }
+.avatar{
+    margin-top: 10px;
+    border-radius: 50%;
+    height: 175px;
+}
