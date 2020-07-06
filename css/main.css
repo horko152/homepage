@@ -24,3 +24,14 @@
     border-radius: 50%;
     height: 175px;
 }
+.language{
+    color: #000000;
+}
+.language:hover{
+    cursor: auto;
+    text-decoration: none;
+}
+.language span:hover{
+    cursor: auto;
+    text-decoration: none;
+}
